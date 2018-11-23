@@ -12,5 +12,5 @@ if ($conn->connect_error) {
     die("连接失败: " . $conn->connect_error);
 }
 $str = "连接成功" ;
-echo $str;
+return  $str;
 ?>
