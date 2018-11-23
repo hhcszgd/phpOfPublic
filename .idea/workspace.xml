@@ -36,8 +36,8 @@
       <file leaf-file-name="ConnectMysql.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ConnectMysql.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+            <state relative-caret-position="0">
+              <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -216,12 +216,12 @@
       <workItem from="1542953970030" duration="9000" />
       <workItem from="1542954025346" duration="1475000" />
       <workItem from="1542971709302" duration="2350000" />
-      <workItem from="1542975655854" duration="1776000" />
+      <workItem from="1542975655854" duration="1937000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10928000" />
+    <option name="totallyTimeSpent" value="11089000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-217" y="80" width="1427" height="1000" extended-state="0" />
@@ -393,8 +393,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ConnectMysql.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+        <state relative-caret-position="0">
+          <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
           <folding />
         </state>
       </provider>
