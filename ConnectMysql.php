@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
 $username = "root";
-$password = "123456";
+$password = "Swift_2018";
 //echo phpinfo();
 //exit;
 // 创建连接
