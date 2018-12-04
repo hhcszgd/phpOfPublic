@@ -11,3 +11,4 @@ echo  "Connect to server successfully";
 echo  "Server is running: " . $redis->ping();
 
 ?>
+
