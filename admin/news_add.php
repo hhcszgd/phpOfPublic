@@ -7,6 +7,8 @@ if(isset($_POST["ac"]) && $_POST["ac"]=="add")
     require_once("include/functions.php");
     //连接数据库
     $link = getLink($db_host,$db_user,$db_pwd,$db_name);
+    $qqq = "set names utf8";
+    mysqli_query($link , $qqq);
 	$cat = intval($_POST["cat"]);
 	$title=trim($_POST["title"]);//标题
 	$author=trim($_POST["author"]);//作者
@@ -38,7 +40,8 @@ if(isset($_POST["ac"]) && $_POST["ac"]=="add")
     require_once("include/functions.php");
 //连接数据库
     $link = getLink($db_host,$db_user,$db_pwd,$db_name);
-
+    $qqq = "set names utf8";
+    mysqli_query($link , $qqq);
 	$sql = "select * from {$db_prefix}site where id=1";
 	$result = mysqli_query($link , $sql);
 	$row = mysqli_fetch_assoc($result);
@@ -114,7 +117,8 @@ function checkForm()
             require_once("include/functions.php");
             //连接数据库
             $link = getLink($db_host,$db_user,$db_pwd,$db_name);
-
+            $qqq = "set names utf8";
+            mysqli_query($link , $qqq);
 
 
             $result2 = mysqli_query( $link , $sql2);

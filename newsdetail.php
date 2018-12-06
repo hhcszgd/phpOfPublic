@@ -12,6 +12,8 @@ require_once("admin/include/config.php");
 require_once("admin/include/functions.php");
 //连接数据库
 $link = getLink($db_host,$db_user,$db_pwd,$db_name);
+$qqq = "set names utf8";
+mysqli_query($link , $qqq);
 //更新点击率
 $sql = "update {$db_prefix}news set hits=hits+1 where id=$id";
 $result = mysqli_query($link,$sql);

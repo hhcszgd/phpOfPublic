@@ -33,7 +33,8 @@ if(isset($_POST["ac"]) && $_POST["ac"]=="edit")
 //连接数据库
     $sql="select * from 007_site where id=1";
     $link = getLink($db_host,$db_user,$db_pwd,$db_name);
-
+    $qqq = "set names utf8";
+    mysqli_query($link , $qqq);
     $result = mysqli_query($link ,$sql);
 
 	$row=mysqli_fetch_assoc($result);

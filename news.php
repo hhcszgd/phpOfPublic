@@ -11,6 +11,8 @@ if(empty($_GET["cat"]))
     require_once("include/functions.php");
 //连接数据库
     $link = getLink($db_host,$db_user,$db_pwd,$db_name);
+    $qqq = "set names utf8";
+    mysqli_query($link , $qqq);
 	$cat = intval($_GET["cat"]);
 	$sql = "select * from {$db_prefix}class_news where id=$cat";
 	$result = mysqli_query($link, $sql);

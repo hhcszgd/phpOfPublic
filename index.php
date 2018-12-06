@@ -57,7 +57,8 @@ require("admin/include/conn.php");
                 require_once("include/functions.php");
                 //连接数据库
                 $link = getLink($db_host,$db_user,$db_pwd,$db_name);
-
+                $qqq = "set names utf8";
+                mysqli_query($link , $qqq);
 
 				$sql = "select * from {$db_prefix}news order by orderby asc,id desc limit 0,8";
 				$result = mysqli_query($link ,$sql);

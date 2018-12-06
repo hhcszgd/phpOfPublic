@@ -18,6 +18,8 @@ require_once("include/config.php");
 require_once("include/functions.php");
 //连接数据库
 $link = getLink($db_host,$db_user,$db_pwd,$db_name);
+$qqq = "set names utf8";
+mysqli_query($link , $qqq);
 $sql = " order by orderby asc,id desc limit $startrow,$pagesize";
 
 $result = mysqli_query($link ,$sql);
@@ -82,6 +84,8 @@ require_once("include/config.php");
 require_once("include/functions.php");
 //连接数据库
 $link = getLink($db_host,$db_user,$db_pwd,$db_name);
+$qqq = "set names utf8";
+mysqli_query($link , $qqq);
 $sql = "select * from 007_news  order by orderby asc,id desc limit $startrow,$pagesize";
 
 $result = mysqli_query($link ,$sql);

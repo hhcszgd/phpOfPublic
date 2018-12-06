@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a22c9aa0-a82a-4d64-9b15-480ba542190b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/syntax.php" beforeDir="false" afterPath="$PROJECT_DIR$/syntax.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/news_add.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/news_add.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/news_manage.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/news_manage.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/site_manage.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/site_manage.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news.php" beforeDir="false" afterPath="$PROJECT_DIR$/news.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newsdetail.php" beforeDir="false" afterPath="$PROJECT_DIR$/newsdetail.php" afterDir="false" />
     </list>
     <ignored path="phpOfPublic.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,11 +41,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="566">
-              <caret line="56" column="22" lean-forward="true" selection-start-line="56" selection-start-column="22" selection-end-line="56" selection-end-column="22" />
+            <state relative-caret-position="290">
+              <caret line="63" column="50" selection-start-line="63" selection-start-column="46" selection-end-line="63" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -58,8 +62,8 @@
       <file leaf-file-name="index_left.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/admin/index_left.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="58" column="55" selection-start-line="58" selection-start-column="53" selection-end-line="58" selection-end-column="55" />
+            <state relative-caret-position="269">
+              <caret line="51" column="49" selection-start-line="51" selection-start-column="47" selection-end-line="51" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -67,17 +71,17 @@
       <file leaf-file-name="newsdetail.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/newsdetail.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="729">
-              <caret line="98" lean-forward="true" selection-start-line="98" selection-end-line="98" />
+            <state relative-caret-position="225">
+              <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="news.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="news.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/news.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="108" column="47" selection-start-line="108" selection-start-column="47" selection-end-line="108" selection-end-column="47" />
+            <state relative-caret-position="195">
+              <caret line="13" selection-start-line="13" selection-end-line="14" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -94,8 +98,8 @@
       <file leaf-file-name="news_manage.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/admin/news_manage.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="69" column="14" selection-start-line="69" selection-start-column="14" selection-end-line="69" selection-end-column="14" />
+            <state relative-caret-position="269">
+              <caret line="24" column="34" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -103,17 +107,8 @@
       <file leaf-file-name="news_add.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/admin/news_add.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index_main.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/admin/index_main.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+            <state relative-caret-position="264">
+              <caret line="22" column="8" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -121,8 +116,8 @@
       <file leaf-file-name="site_manage.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/admin/site_manage.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="371">
-              <caret line="30" selection-start-line="30" selection-end-line="34" selection-end-column="56" />
+            <state relative-caret-position="195">
+              <caret line="13" column="8" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -143,8 +138,12 @@
       <find>class_news</find>
       <find>t</find>
       <find>添加产品</find>
-      <find>添加</find>
+      <find>mysqli_</find>
+      <find>char</find>
+      <find>$</find>
       <find>$records</find>
+      <find>添加</find>
+      <find>$sql</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
@@ -168,13 +167,13 @@
         <option value="$PROJECT_DIR$/header.php" />
         <option value="$PROJECT_DIR$/admin/include/conn.php" />
         <option value="$PROJECT_DIR$/admin/index_main.php" />
-        <option value="$PROJECT_DIR$/admin/site_manage.php" />
         <option value="$PROJECT_DIR$/admin/class_news_manage.php" />
-        <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/admin/news_add.php" />
-        <option value="$PROJECT_DIR$/admin/news_manage.php" />
-        <option value="$PROJECT_DIR$/newsdetail.php" />
         <option value="$PROJECT_DIR$/news.php" />
+        <option value="$PROJECT_DIR$/admin/news_manage.php" />
+        <option value="$PROJECT_DIR$/admin/news_add.php" />
+        <option value="$PROJECT_DIR$/admin/site_manage.php" />
+        <option value="$PROJECT_DIR$/newsdetail.php" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -198,7 +197,7 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="161" />
+    <option name="x" value="269" />
     <option name="y" value="23" />
     <option name="width" value="1427" />
     <option name="height" value="1000" />
@@ -217,6 +216,16 @@
             <path>
               <item name="phpOfPublic" type="b2602c69:ProjectViewProjectNode" />
               <item name="phpOfPublic" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="phpOfPublic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phpOfPublic" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="phpOfPublic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phpOfPublic" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="images" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -392,15 +401,15 @@
       <workItem from="1543456894905" duration="895000" />
       <workItem from="1543535436717" duration="145000" />
       <workItem from="1543538868447" duration="27718000" />
-      <workItem from="1544060947238" duration="4251000" />
+      <workItem from="1544060947238" duration="9301000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76100000" />
+    <option name="totallyTimeSpent" value="81150000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="454" y="23" width="1427" height="1000" extended-state="0" />
+    <frame x="269" y="23" width="1427" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -409,7 +418,7 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.04090909" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18555957" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.18555957" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" weight="0.3299639" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.13636364" />
@@ -429,18 +438,18 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18555957" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18555957" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24981949" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.13636364" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Database" order="3" visible="true" weight="0.3299639" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.13636364" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3299639" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39886364" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="11" visible="true" weight="0.04090909" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.04090909" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39886364" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info id="Favorites" order="2" side_tool="true" />
     </layout-to-restore>
@@ -465,13 +474,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ConnectMysql.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/phpInfo.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -700,13 +702,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nginxConf.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="596">
-          <caret line="82" column="3" selection-start-line="82" selection-start-column="3" selection-end-line="82" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ConnectMysql.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -752,12 +747,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/admin/site_manage.php">
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/mysqli/mysqli.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="30" selection-start-line="30" selection-end-line="34" selection-end-column="56" />
+        <state relative-caret-position="99">
+          <caret line="180" column="11" lean-forward="true" selection-start-line="180" selection-start-column="11" selection-end-line="180" selection-end-column="11" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nginxConf.php">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/class_news_manage.php">
       <provider selected="true" editor-type-id="text-editor">
@@ -766,24 +764,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/admin/news_manage.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="566">
-          <caret line="56" column="22" lean-forward="true" selection-start-line="56" selection-start-column="22" selection-end-line="56" selection-end-column="22" />
+        <state relative-caret-position="269">
+          <caret line="24" column="34" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/news_add.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+        <state relative-caret-position="264">
+          <caret line="22" column="8" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/admin/news_manage.php">
+    <entry file="file://$PROJECT_DIR$/admin/site_manage.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="69" column="14" selection-start-line="69" selection-start-column="14" selection-end-line="69" selection-end-column="14" />
+        <state relative-caret-position="195">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newsdetail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/index_left.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="51" column="49" selection-start-line="51" selection-start-column="47" selection-end-line="51" selection-end-column="49" />
         </state>
       </provider>
     </entry>
@@ -794,24 +813,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/admin/index_left.php">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="58" column="55" selection-start-line="58" selection-start-column="53" selection-end-line="58" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/newsdetail.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="729">
-          <caret line="98" lean-forward="true" selection-start-line="98" selection-end-line="98" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/news.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="108" column="47" selection-start-line="108" selection-start-column="47" selection-end-line="108" selection-end-column="47" />
+        <state relative-caret-position="290">
+          <caret line="63" column="50" selection-start-line="63" selection-start-column="46" selection-end-line="63" selection-end-column="50" />
         </state>
       </provider>
     </entry>
