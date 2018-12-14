@@ -1,5 +1,9 @@
 <?php
 require_once("include/conn.php");
+require_once("include/config.php");
+require_once("include/functions.php");
+//连接数据库
+$link = getLink($db_host,$db_user,$db_pwd,$db_name);
 //*******************************************************************************************************
 if(isset($_POST["ac"]) && $_POST["ac"]=="edit")
 {
@@ -12,7 +16,7 @@ if(isset($_POST["ac"]) && $_POST["ac"]=="edit")
 	$description=trim($_POST["description"]);
 	//写入数据库
 	$sql="update {$db_prefix}site set webname='$webname',url='$url',source='$source',icp='$icp',keywords='$keywords',description='$description' where id=1";
-	if(mysql_query($sql))
+	if(mysqli_query($link , $sql))
 	{
 		$message=urlencode("更新成功！");
 		$url="site_manage.php";
@@ -28,11 +32,8 @@ if(isset($_POST["ac"]) && $_POST["ac"]=="edit")
 {
 
 
-    require_once("include/config.php");
-    require_once("include/functions.php");
-//连接数据库
+
     $sql="select * from 007_site where id=1";
-    $link = getLink($db_host,$db_user,$db_pwd,$db_name);
     $qqq = "set names utf8";
     mysqli_query($link , $qqq);
     $result = mysqli_query($link ,$sql);

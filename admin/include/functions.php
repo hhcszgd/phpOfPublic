@@ -24,6 +24,8 @@ function getLink($db_host,$db_user,$db_pwd,$db_name)
 
     //连接MySQL数据库
     $link = mysqli_connect($db_host,$db_user,$db_pwd , $db_name);
+//或
+//$link = new mysqli($servername, $username, $password,$dbName);
     $qqq = "set names utf8";
     mysqli_query($link , $qqq);
     if(!$link)
