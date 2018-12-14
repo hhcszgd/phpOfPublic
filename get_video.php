@@ -7,7 +7,7 @@
  */
 
 $a = array( "http://172.16.4.36/07.Cinderella.mp4");
-$arr = scandir("./videos");
+$arr = scandir("../videos");
 $tempArr = array();
 for($i = 0 ; $i < count($arr) ; $i++){
     $domain = "http://172.16.4.36/";

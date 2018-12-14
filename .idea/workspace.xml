@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a22c9aa0-a82a-4d64-9b15-480ba542190b" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConnectMysql.php" beforeDir="false" afterPath="$PROJECT_DIR$/ConnectMysql.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/include/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/include/functions.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/site_manage.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/site_manage.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/get_video.php" beforeDir="false" afterPath="$PROJECT_DIR$/get_video.php" afterDir="false" />
     </list>
     <ignored path="phpOfPublic.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -90,8 +88,8 @@
       <file leaf-file-name="get_video.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/get_video.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+            <state relative-caret-position="60">
+              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -176,8 +174,8 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="843" />
-    <option name="y" value="188" />
+    <option name="x" value="102" />
+    <option name="y" value="54" />
     <option name="width" value="1427" />
     <option name="height" value="1000" />
   </component>
@@ -189,7 +187,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -197,15 +194,11 @@
               <item name="phpOfPublic" type="b2602c69:ProjectViewProjectNode" />
               <item name="phpOfPublic" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
-            <path>
-              <item name="phpOfPublic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="phpOfPublic" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="videos" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -385,18 +378,18 @@
       <workItem from="1544658797314" duration="2780000" />
       <workItem from="1544752352442" duration="363000" />
       <workItem from="1544752840891" duration="213000" />
-      <workItem from="1544753325389" duration="2110000" />
+      <workItem from="1544753325389" duration="3157000" />
+      <workItem from="1544785255974" duration="3000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="108510000" />
+    <option name="totallyTimeSpent" value="109560000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="280" y="203" width="1427" height="1000" extended-state="0" />
-    <editor active="true" />
+    <frame x="102" y="54" width="1427" height="1000" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19494584" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19783394" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -420,19 +413,19 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18772563" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24981949" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.04090909" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.13636364" />
       <window_info anchor="right" id="Database" order="3" weight="0.3299639" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32954547" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39886364" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="11" weight="0.04090909" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -807,8 +800,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/get_video.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+        <state relative-caret-position="60">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
         </state>
       </provider>
     </entry>
